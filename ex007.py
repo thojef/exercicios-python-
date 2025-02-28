@@ -6,7 +6,4 @@ n1 = float(input('Nota da n1: '))
 n2 = float(input('Nota n2: '))
 media = (n1 + n2) / 2
 
-print(f'A média do aluno {nome} é: {media}.')
-
-# Forma 2
-
+print(f'A média do aluno {nome} é: {media}.') 
